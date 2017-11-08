@@ -1,2 +1,1 @@
-# control-repo-pov
-control repo for pov work
+Starter control-repo for Puppet POV.
